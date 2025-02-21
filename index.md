@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Ahmed Tahsin Shams is a ....>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Ecocinema** aesthetics, perception, representation
+- **Creative Practices** Nonfiction, theater, video art, video essay, experimental
+- **Pedagogy** Ecocinema pedagogy, social justice and cinema, intermedial visual arts
 
 {% include_relative _includes/education.md %}
 
